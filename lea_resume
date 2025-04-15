@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>Lea Gesquiere</h1>
+    <img src="./Screenshot 2025-04-15 at 08.58.58.png" height="200" alt="This is a picture of Lea">
+    <h2>Marketing Automation Manager</h2>
+    <p>Marketing Automation Consultant with 7 years’ experience.</p>
+    <hr/>
+    <h2>Professional Experience</h2>
+    <h3>Marketing Automation Manager</h3>
+    <p><i>Sparkplant, 2024-now</i></p>
+    <ul><li>Leading CRM implementations for enterprise clients from migration to go-live</li>
+        <li>Managing full CRM setup: data integration, dynamic template design using Liquid and HTML, and Braze Canvas automation</li></ul>
+        <li>Building scalable, cross-channel campaigns (Push, Email, In-App, SMS, WhatsApp)    </li>
+    <h3>Senior CRM Manager</h3>
+    <p><i>Amboss, 2019-2024</i></p>
+    <ul><li>Led global CRM campaigns for the App: +38% conversions, +45% engagement
+        <li>Opened US Physicians market in CRM: Launched 4 lifecycle automations</li>
+        <li>Ran promotional campaigns generating ~$2K/month</li> 
+        <li>Deployed new channels: Push, SMS, WhatsApp</li>
+        <li>Reported CRM performance to top management</li></ul>
+    </ul>
+    <h3>CRM Consultant App Mobile Agency</h3>
+    <p><i>Replug, 2019-2024</i></p>
+    <li>Led CRM audits and strategy for 4 app-mobile US startups, delivering tailored solutions and cross-channel campaign strategies and implementations.</li>
+    <h3>CRM Project Manager</h3>
+<h3>Marketing Automation Manager</h3>
+<p><i>BOOK A TIGER, 2016-2019</i></p>
+<ul>
+    <li>Established a CRM system from scratch in Salesforce Marketing Cloud</li></ul>
+<hr/>
+<h2>Skills</h2>
+<p><b>CRM Systems:</b> Proficient in Salesforce, HubSpot CRM, and Braze.<br/>
+    <b>Programming language:</b> Knowledge of SQL, Javascript, HTML and CSS BI tools: Data Studio and Metabase
+   <b>Project Management:</b> Ability to lead CRM projects throughout the entire CRM lifecycle. Full proficiency in Miro and MS office.</p>
+</body>
+</html>
